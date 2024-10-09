@@ -1,5 +1,3 @@
-# JoaoVinicius377.github.io
-Currículo
 <!DOCTYPE html>
 <html lang="en">
  <head>
@@ -11,7 +9,7 @@ Currículo
   <hr>
   <ul>
    <li><a href="mailto:jvpm1@aluno.ifal.edu.br">E-mail para Contato</a></li>
-   <li><a href="www.linkedin.com/in/joão-vinicius-pessôa-610935330>Link para o Linkedin</a></li>
+   <li><a href="https://www.linkedin.com/in/joão-vinicius-pessôa-610935330>Link para o Linkedin</a></li>
   </ul>
   <hr>
  
